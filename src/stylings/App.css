@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+body{
+  background-color: rgb(107, 164, 47);
+  overflow-x: hidden;
+  font-family: "Ubuntu";
+}
+
+.header{
+  background-color: rgb(236, 236, 236);
+  background-size: cover;
+  width: 100%;
+  min-height: 6vh;
+  font-size: 1vw;
+  color: white;
+  box-shadow: 0 0 4px 0 black;
+  margin: 0;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  position: fixed;
+}
+
+.headerSpacer{
+  background-color: rgb(236, 236, 236);
+  width: 100%;
+  min-height: 6vh;
+  font-size: 1vw;
+  color: white;
+  margin: 0;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo{
+  width: 6vw;
+  border-radius: 30px;
+  margin-left: 30px;
+  padding-left: 5px;
+}
+
+h1{
+  margin: 0;
+}
+
+.navLink{
+  padding: 0 3vw;
+  color: rgb(107, 164, 47);
+  text-decoration: none;
+  font-size: 1.5vw;
+}
+
+.navLink:hover{
+  color: rgb(76, 116, 33);
+}

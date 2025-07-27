@@ -1,0 +1,50 @@
+body{
+  margin: 0;
+}
+
+/* rgb(137, 214, 59)
+rgb(107, 164, 47) */
+
+.mainHeader{
+  margin: 5vh 0;
+  display: flex;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+}
+
+.section{
+  padding: 2rem;
+  background-color: rgb(236, 236, 236);
+  color: rgb(107, 164, 47);
+  width: 50%;
+  margin: 1rem auto;
+  box-shadow: 0 0 8px 0 black;
+  border-radius: 3px;
+}
+
+.sectionFlex{
+  display: flex;
+  justify-content: center;
+}
+
+.sectionItem{
+  padding: 0.75rem;
+  width: 100%;
+}
+
+h2{
+  margin: 0;
+  font-size: 4vh;
+}
+
+p{
+  font-size: 2.5vh;
+}
+
+.link{
+  color: rgb(137, 214, 59);
+}
+
+.number{
+  color: rgb(137, 214, 59);
+}
