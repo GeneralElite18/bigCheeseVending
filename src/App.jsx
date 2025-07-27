@@ -1,4 +1,4 @@
-import { Link, NavLink, Routes, Route} from 'react-router-dom';
+import { Link, Routes, Route} from 'react-router-dom';
 import './stylings/App.css';
 import Logo from './images/BigCheeseLogo.png'
 import ScrollToTop from './javaScripts/ScrollToTop';
