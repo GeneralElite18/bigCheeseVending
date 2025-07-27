@@ -1,5 +1,5 @@
 import '../stylings/faqPage.css';
-
+import { Link } from 'react-router-dom';
 
 
 function FAQPage() {
@@ -27,7 +27,7 @@ function FAQPage() {
                         <h2>Is there a contract or long-term commitment involved?</h2>
                         <p>Nope! Our goal is to provide a great service and products so you'll want to keep the machine.</p>
                          <div className="buttonSection">
-                            <a href='/contact' className="buttonFAQ">Request a Free Vending Machine</a>
+                             <Link to="/contact" className="buttonFAQ">Request a Free Vending Machine</Link>
                         </div>
                         <br />
                     </div>

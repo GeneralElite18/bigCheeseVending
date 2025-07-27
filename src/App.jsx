@@ -1,6 +1,7 @@
-import { HashRouter, NavLink, Routes, Route} from 'react-router-dom';
+import { Link, NavLink, Routes, Route} from 'react-router-dom';
 import './stylings/App.css';
 import Logo from './images/BigCheeseLogo.png'
+import ScrollToTop from './javaScripts/ScrollToTop';
 
 import HomePage from './pages/home.page';
 import FAQPage from './pages/faq.page';
@@ -8,24 +9,25 @@ import ContactPage from './pages/contact.page';
 
 function App() {
   return (
-    <HashRouter hashType="hashbang">
+    <div>
         <header className="header">
           <img src={Logo} alt="" className="logo"/>
           <div className="navLinkMenu">
-            <a href='/' className="navLink">Home</a>
-            <a href='/faq' className="navLink">FAQ</a>
-            <a href='/contact' className="navLink">Contact</a>
+            <Link to="/" className="navLink">Home</Link>
+            <Link to="/faq" className="navLink">FAQ</Link>
+            <Link to="/contact" className="navLink">Contact</Link>
           </div>
         </header>
         <div className="headerSpacer">
           <img src={Logo} alt="" className="logo"/>
         </div>
+        <ScrollToTop />
         <Routes>
           <Route path='/' element={<HomePage />}></Route>
           <Route path='/faq' element={<FAQPage />}></Route>
           <Route path='/contact' element={<ContactPage />}></Route>
         </Routes>
-    </HashRouter>
+    </div>
   );
 }
 
