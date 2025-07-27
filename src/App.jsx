@@ -23,9 +23,9 @@ function App() {
         </div>
         <ScrollToTop />
         <Routes>
-          <Route path='/bigCheeseVending/' element={<HomePage />}></Route>
-          <Route path='/bigCheeseVending/faq' element={<FAQPage />}></Route>
-          <Route path='/bigCheeseVending/contact' element={<ContactPage />}></Route>
+          <Route path='/bigCheeseVending/#' element={<HomePage />}></Route>
+          <Route path='/bigCheeseVending/#/faq' element={<FAQPage />}></Route>
+          <Route path='/bigCheeseVending/#/contact' element={<ContactPage />}></Route>
         </Routes>
     </div>
   );
