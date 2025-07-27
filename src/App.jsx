@@ -8,7 +8,7 @@ import ContactPage from './pages/contact.page';
 
 function App() {
   return (
-    <HashRouter>
+    <HashRouter hashType="hashbang">
         <header className="header">
           <img src={Logo} alt="" className="logo"/>
           <div className="navLinkMenu">
