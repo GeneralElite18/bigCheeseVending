@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bigCheeseVending/static/css/main.368a6c8f.css",
-    "main.js": "/bigCheeseVending/static/js/main.8dcd0a03.js",
+    "main.js": "/bigCheeseVending/static/js/main.369b0575.js",
     "static/js/453.36b8f92c.chunk.js": "/bigCheeseVending/static/js/453.36b8f92c.chunk.js",
     "static/media/VendingMachineTypes.png": "/bigCheeseVending/static/media/VendingMachineTypes.a31292495f82a8944ab8.png",
     "static/media/WelcomeImage.png": "/bigCheeseVending/static/media/WelcomeImage.4bba2ddb36a80f83c56c.png",
@@ -10,11 +10,11 @@
     "static/media/CheeseHeader.png": "/bigCheeseVending/static/media/CheeseHeader.e3fd1a2a033ce3114a8c.png",
     "index.html": "/bigCheeseVending/index.html",
     "main.368a6c8f.css.map": "/bigCheeseVending/static/css/main.368a6c8f.css.map",
-    "main.8dcd0a03.js.map": "/bigCheeseVending/static/js/main.8dcd0a03.js.map",
+    "main.369b0575.js.map": "/bigCheeseVending/static/js/main.369b0575.js.map",
     "453.36b8f92c.chunk.js.map": "/bigCheeseVending/static/js/453.36b8f92c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.368a6c8f.css",
-    "static/js/main.8dcd0a03.js"
+    "static/js/main.369b0575.js"
   ]
 }
