@@ -23,7 +23,7 @@ function App() {
         </div>
         <ScrollToTop />
         <Routes>
-          <Route path='/' element={<HomePage />}></Route>
+          <Route exact path='/' element={<HomePage />}></Route>
           <Route path='/faq' element={<FAQPage />}></Route>
           <Route path='/contact' element={<ContactPage />}></Route>
         </Routes>
