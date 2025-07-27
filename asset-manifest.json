@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba0d659f.css",
+    "main.js": "/static/js/main.2aa073f3.js",
+    "static/js/453.36b8f92c.chunk.js": "/static/js/453.36b8f92c.chunk.js",
+    "static/media/VendingMachineTypes.png": "/static/media/VendingMachineTypes.a31292495f82a8944ab8.png",
+    "static/media/WelcomeImage.png": "/static/media/WelcomeImage.4bba2ddb36a80f83c56c.png",
+    "static/media/BigCheeseLogo.png": "/static/media/BigCheeseLogo.9c62aa0d58dd22123274.png",
+    "static/media/VendingSnacks.png": "/static/media/VendingSnacks.b4147f056d016fbc3512.png",
+    "static/media/CheeseHeader.png": "/static/media/CheeseHeader.e3fd1a2a033ce3114a8c.png",
+    "index.html": "/index.html",
+    "main.ba0d659f.css.map": "/static/css/main.ba0d659f.css.map",
+    "main.2aa073f3.js.map": "/static/js/main.2aa073f3.js.map",
+    "453.36b8f92c.chunk.js.map": "/static/js/453.36b8f92c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba0d659f.css",
+    "static/js/main.2aa073f3.js"
+  ]
+}
