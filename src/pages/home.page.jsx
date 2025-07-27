@@ -9,7 +9,7 @@ function HomePage() {
     return (
         <div>
             <h1 className="mainHeader">We Do the Work, You Enjoy the Benefits</h1>
-            <div className="section">
+            <div className="homeSection">
                 <div className="sectionFlex">
                     <div className="sectionItem">
                         <h2>Vending Machine Services</h2>
@@ -24,7 +24,7 @@ function HomePage() {
                 </div>
             </div>
             <h1 className="mainHeader">Vending Service Made Easy</h1>
-            <div className="section">
+            <div className="homeSection">
                 <div className="sectionFlex">
                     <div className="sectionItem">
                         <img src={snackImage} alt="" className="welcomeImage" />
@@ -41,7 +41,7 @@ function HomePage() {
                 </div>
             </div>
             <h1 className="mainHeader">A Wide Variety of Machines</h1>
-            <div className="section">
+            <div className="homeSection">
                 <div className="sectionFlex">
                     <div className="sectionItem">
                         <h2>Find the Right Machine for Your Location</h2>

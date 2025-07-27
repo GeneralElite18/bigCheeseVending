@@ -6,7 +6,7 @@ function ContactPage() {
     return (
         <div>
             <h1 className="mainHeader">Request a Machine</h1>
-            <div className="section">
+            <div className="contactSection">
                 <div className="sectionFlex">
                     <div className="sectionItem">
                         <h2>Contact Us</h2>

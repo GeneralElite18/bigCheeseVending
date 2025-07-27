@@ -6,7 +6,7 @@ function FAQPage() {
     return (
         <div>
             <h1 className="mainHeader">Frequently Asked Questions</h1>
-            <div className="section">
+            <div className="faqSection">
                 <div className="sectionFlex">
                     <div className="sectionItem">
                         <h2>How much does it cost to get a vending machine?</h2>
