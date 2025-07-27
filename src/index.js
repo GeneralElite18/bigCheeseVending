@@ -7,7 +7,7 @@ import { HashRouter } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <HashRouter hashType="hashbang">
+  <HashRouter hashType="hashbang" basename="/bigCheeseVending">
     <App />
   </HashRouter>
 );
