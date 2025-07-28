@@ -15,7 +15,7 @@ body{
   color: white;
   box-shadow: 0 0 4px 0 black;
   margin: 0;
-  padding: 15px;
+  padding: 5px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -30,14 +30,14 @@ body{
   font-size: 1vw;
   color: white;
   margin: 0;
-  padding: 15px;
+  padding: 5px;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
 }
 
 .logo{
-  width: 6vw;
+  width: 7vw;
   border-radius: 30px;
   margin-left: 30px;
   padding-left: 5px;
@@ -56,6 +56,7 @@ h1{
 
 .navLink:hover{
   color: rgb(76, 116, 33);
+  text-decoration: underline;
 }
 
 @media only screen and (max-width: 600px) {

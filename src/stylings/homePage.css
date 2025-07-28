@@ -40,9 +40,14 @@ rgb(107, 164, 47) */
   border-radius: 15px;
 }
 
+h1{
+  font-size: 2.5vw;
+}
+
 h2{
   margin: 0;
-  font-size: 4vh;
+  font-size: 2.5vw;
+  color: rgb(74, 119, 25);
 }
 
 p{
@@ -82,6 +87,14 @@ li{
   
   body{
     text-align: center;
+  }
+
+  h1{
+    font-size: 9vw;
+  }
+
+  h2{
+    font-size: 9vw;
   }
 
   .homeSection{
