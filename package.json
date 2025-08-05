@@ -1,7 +1,6 @@
 {
   "name": "big-cheese-vending",
   "version": "0.1.0",
-  "homepage": "https://generalelite18.github.io/bigCheeseVending/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
