@@ -13,7 +13,7 @@ function HomePage() {
                 <div className="sectionFlex">
                     <div className="sectionItem">
                         <h2>Vending Machine Services</h2>
-                        <p>We install and service modern vending machines stocked with popular snacks and drinks — all handled and maintained at no cost to your business.</p>
+                        <p>We install and service modern vending machines stocked with popular snacks and drinks. All of it handled and maintained at no cost to your business.</p>
                         <div className="buttonSection">
                             <Link to="/contact" className="button">Request a Free Vending Machine</Link>
                         </div>
