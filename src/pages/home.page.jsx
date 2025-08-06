@@ -15,7 +15,7 @@ function HomePage() {
                         <h2>Vending Machine Services</h2>
                         <p>We install and service modern vending machines stocked with popular snacks and drinks. All of it handled and maintained at no cost to your business.</p>
                         <div className="buttonSection">
-                            <Link to="/contact" className="button">Request a Free Vending Machine</Link>
+                            <Link to="/contact" className="button">Request a Vending Machine</Link>
                         </div>
                     </div>
                     <div className="sectionItem">
@@ -35,7 +35,7 @@ function HomePage() {
                         <p><strong>2. Free Installation:</strong> We deliver and set up your machine at no cost.</p>
                         <p><strong>3. Ongoing Service:</strong> We keep it stocked, cleaned, and maintained.</p>
                         <div className="buttonSection">
-                            <Link to="/contact" className="button">Request a Free Vending Machine</Link>
+                            <Link to="/contact" className="button">Request a Vending Machine</Link>
                         </div>
                     </div>
                 </div>
@@ -47,7 +47,7 @@ function HomePage() {
                         <h2>Find the Right Machine for Your Location</h2>
                         <p>Whether you're looking for a classic snack machine, a compact candy dispenser, or a high-tech smart vending system, we've got you covered.</p>
                         <div className="buttonSection">
-                            <Link to="/contact" className="button">Request a Free Vending Machine</Link>
+                            <Link to="/contact" className="button">Request a Vending Machine</Link>
                         </div>
                     </div>
                     <div className="sectionItem">

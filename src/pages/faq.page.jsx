@@ -28,7 +28,7 @@ function FAQPage() {
                         <p className="faqAnswer">Nope! Our goal is to provide a great service and products so you'll want to keep the machine.</p>
                         <br />
                          <div className="buttonSection">
-                             <Link to="/contact" className="buttonFAQ">Request a Free Vending Machine</Link>
+                             <Link to="/contact" className="buttonFAQ">Request a Vending Machine</Link>
                         </div>
                         <br />
                     </div>
