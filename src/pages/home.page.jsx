@@ -1,6 +1,6 @@
 import '../stylings/homePage.css';
 import welcomeImage from '../images/WelcomeImage.png';
-import snackImage from '../images/VendingSnacks.png';
+import snackImage from '../images/SnackDisplay.jpg';
 import MachineTypes from '../images/VendingMachineTypes.png'
 import { Link } from 'react-router-dom';
 
@@ -27,7 +27,7 @@ function HomePage() {
             <div className="homeSection">
                 <div className="sectionFlex">
                     <div className="sectionItem">
-                        <img src={snackImage} alt="" className="welcomeImage" />
+                        <img src={snackImage} alt="Snack Image" className="welcomeImage" />
                     </div>
                     <div className="sectionItem">
                         <h2>How it Works</h2>
@@ -51,7 +51,7 @@ function HomePage() {
                         </div>
                     </div>
                     <div className="sectionItem">
-                        <img src={MachineTypes} alt="" className="welcomeImage" />
+                        <img src={MachineTypes} alt="Machine Type Image" className="welcomeImage" />
                     </div>
                 </div>
             </div>
