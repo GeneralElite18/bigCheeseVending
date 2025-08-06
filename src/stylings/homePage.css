@@ -105,10 +105,15 @@ li{
   .welcomeImage{
     padding: 0;
     margin: 0;
+    width: 90%;
   }
 
   .sectionFlex{
     flex-direction: column;
+  }
+
+  .sectionItem{
+    padding: 0;
   }
 
   .button{

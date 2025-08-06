@@ -2,6 +2,7 @@
 
 body{
   background-color: rgb(107, 164, 47);
+  position: relative;
   overflow-x: hidden;
   font-family: "Ubuntu";
 }
